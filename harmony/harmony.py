@@ -9,7 +9,7 @@ Overview of the classes:
 
     * Collection: A CMR Collection ID
     * BBox: A bounding box (lat/lon) used in Requests
-    * Request: A complete Harmony request with all criteria
+    * Request: A complete Harmony request with all criteriaa dfafagag
     * Client: Allows submission of a Harmony Request and getting results
 """
 import os
